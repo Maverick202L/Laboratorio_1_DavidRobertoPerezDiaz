@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\bin\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.exe
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\bin\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.deps.json
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\bin\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\bin\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\bin\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.pdb
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\refint\LABORATORIO_1_DavidRobertoPerezDiaz.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.pdb
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\LABORATORIO_1_DavidRobertoPerezDiaz.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO_1_DavidRobertoPerezDiaz\obj\Debug\net6.0\ref\LABORATORIO_1_DavidRobertoPerezDiaz.dll
